@@ -31,6 +31,8 @@
 #### 6、 另起窗口，输入如下命令，启动yanshee-ros服务。
 #### &emsp;&emsp;&emsp; roslaunch yanshee_launch yanshee.launch
 #### 7、 另起窗口，命令行webots之后，打开yanshee_simulation_project/worlds目录下相应的wbt场景文件，点击运行按钮，即可开始仿真。
+#### 8、运行示例demo，另起窗口，cd user_demo/YanAPI_demo/ 运行相应的案例：
+####  &emsp;&emsp; 例如让机器人做动作：python3 motion_test.py 查看仿真机器人效果变化。
 
 #### &emsp;&emsp;&emsp;&emsp;&emsp;
 #### &emsp;&emsp;&emsp;&emsp;&emsp;
